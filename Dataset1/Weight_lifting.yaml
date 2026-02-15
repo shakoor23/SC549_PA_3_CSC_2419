@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/SC549_CSC2419_PA_2/Dataset1
+train: images/train
+val: images/val
+
+nc: 1
+names: ['person']
